@@ -15,6 +15,7 @@ We'll pass strings with varying formats, such as "racecar", "RaceCar", and
 */
 
 function palindrome(str) {
+  
   // turn string to array, reverse it, join it again, set it to lowercase
   // lastly remove all non alphanumeric characters
   var reverseStr = str.split('').reverse().join('').toLowerCase().replace(/[\W_]/g, '');

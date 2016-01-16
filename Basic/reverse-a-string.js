@@ -9,6 +9,8 @@ Your result must be a string.
 */
 
 function reverseString(str) {
+  
+  // turn string into an array, reverse the array and then join it
   str = str.split('').reverse().join('');
   return str;
 }
