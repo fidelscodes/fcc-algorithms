@@ -1,3 +1,2 @@
-# fccBonfires
-Solutions to the FreeCodeCamp JavaScript Algorithm Challenges
-
+# FreeCodeCamp Algorithm Challenges
+Solutions to the [FreeCodeCamp](http://freecodecamp.com) JavaScript Algorithm Challenges
